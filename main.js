@@ -1,4 +1,4 @@
-const url ="https://random-word-api.herokuapp.com/word?number=12";
+const url ="https://random-word-api.herokuapp.com/word?length=7&number=12";
 
 
 let dom = document.querySelector("#render_log");
